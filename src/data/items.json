@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Shaq's Silliness",
+    "price": 19.99,
+    "imgUrl": "public/images/shaq.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Dwayne 'The Rock' Johnson's Motivation",
+    "price": 29.99,
+    "imgUrl": "public/images/rock.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Keanu Reeves's Kindness",
+    "price": 39.99,
+    "imgUrl": "public/images/keanu.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Ryan Reynolds's Humor",
+    "price": 59.99,
+    "imgUrl": "public/images/reynolds.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Oprah Winfrey's Wisdom",
+    "price": 24.99,
+    "imgUrl": "public/images/oprah.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Will Smith's Positivity",
+    "price": 79.99,
+    "imgUrl": "public/images/will.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Lady Gaga's Creativity",
+    "price": 49.99,
+    "imgUrl": "public/images/gaga.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Tom Hanks's Kindness",
+    "price": 899.99,
+    "imgUrl": "public/images/hanks.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Serena Williams's Determination",
+    "price": 14.99,
+    "imgUrl": "public/images/serena.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Chris Hemsworth's Charm",
+    "price": 9.99,
+    "imgUrl": "public/images/thor.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Mindy Kaling's Wit",
+    "price": 34.99,
+    "imgUrl": "public/images/mindy.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Idris Elba's Coolness",
+    "price": 199.99,
+    "imgUrl": "public/images/idris.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Mayim Bialik's Intelligence",
+    "price": 2559.99,
+    "imgUrl": "public/images/mayim.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "John Legend's Romance",
+    "price": 999.99,
+    "imgUrl": "public/images/legend.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "Michelle Yeoh's Grace",
+    "price": 1499.99,
+    "imgUrl": "public/images/michelle.jpeg"
+  },
+  {
+    "id": 16,
+    "name": "Chris Evans's Heroism",
+    "price": 39.99,
+    "imgUrl": "public/images/cap.jpeg"
+  },
+  {
+    "id": 17,
+    "name": "Zendaya's Confidence",
+    "price": 49.99,
+    "imgUrl": "public/images/zendaya.jpeg"
+  },
+  {
+    "id": 18,
+    "name": "Lin-Manuel Miranda's Musicality",
+    "price": 19.99,
+    "imgUrl": "public/images/lin.jpeg"
+  },
+  {
+    "id": 19,
+    "name": "Jennifer Lawrence's Quirkiness",
+    "price": 99.99,
+    "imgUrl": "public/images/jennifer.jpeg"
+  },
+  {
+    "id": 20,
+    "name": "Hugh Jackman's Humility",
+    "price": 59.99,
+    "imgUrl": "public/images/hugh.jpeg"
+  }
+]
